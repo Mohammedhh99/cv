@@ -1,5 +1,3 @@
-# cv
-My CV 
 Mohammed Hatem Hassona
 
 English Language (Educational & Literature) - Al Quds Open University
@@ -23,5 +21,5 @@ Other languages: English
 
 Education & Qualifications
 
-2017 till 2021 : studying English language (Educational & Literature) - Quds Open Universite.
+2017 ~ 2021 : studying English language (Educational & Literature) - Quds Open Universite.
 2004 ~ 2017 : studied at :  at Al Karmel high school - scientific section.
